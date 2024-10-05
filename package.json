@@ -1,0 +1,21 @@
+{
+  "name": "playground-tdd",
+  "version": "1.0.0",
+  "description": "이 프로젝트는 '자바 플레이그라운드 with TDD, 클린 코드' 강의의 미션을 수행한 코드들을 모아놓은 저장소입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.7.4",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.6.2"
+  }
+}
